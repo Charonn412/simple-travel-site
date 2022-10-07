@@ -1,0 +1,35 @@
+<!-- <style type="text/css">
+        h1 {
+            /* background-color: green; */
+            font-weight: 1000;
+            font-style: oblique;
+            
+        }
+        h2{
+            /* background-color: yellow; */
+            font-weight: 200;
+            font-style: oblique;
+        }
+        h3{
+            /* background-color: black; */
+            font-weight: 100;
+            /* color: white; */
+            font-style: oblique;
+        }
+        header{ 
+           font-weight: 700; 
+           text-align: center;
+           font-size: x-large;
+        }
+        p{
+            font-weight: 400;
+        }
+        nav{
+         
+        }
+        .box{
+            width: 50vw;
+            height: 50vh;
+            background-image: linear-gradient(green, yellow, black);
+        }
+    </style> -->
